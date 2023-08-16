@@ -1,7 +1,7 @@
 # myfirst_app
 # What's Song? - 歌詞推測クイズゲーム
 
-![App Icon](app_icon.png)
+![App Icon](Assets.xcassets/54DBB87F-17F3-4741-827A-6283BD680CD8.imageset/54DBB87F-17F3-4741-827A-6283BD680CD8.jpeg)
 
 ## 作った経緯
 
