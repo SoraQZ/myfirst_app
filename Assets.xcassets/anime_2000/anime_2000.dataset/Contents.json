@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "anime_2000.csv",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

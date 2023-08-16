@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "ranking_million.csv",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
